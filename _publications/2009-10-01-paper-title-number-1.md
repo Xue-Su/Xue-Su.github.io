@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "Melting inside the Tibetan crust? Constraint from electrical conductivity of peraluminous granitic melt. ![image](https://github.com/Xue-Su/Xue-Su.github.io/assets/142272724/25518667-e2a5-4225-adc5-7b65d43f3b92)
+"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
