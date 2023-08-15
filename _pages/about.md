@@ -12,12 +12,3 @@ I am currently a 5th year PhD student at the Department of Earth and Environment
 
 My PhD thesis focuses on lunar science 
 1)
-
-
-A data-driven personal website
-======
-
-
-Site-wide configuration
-------
-
