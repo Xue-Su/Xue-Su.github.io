@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xue Su's Homepage"
 title_separator          : "-"
-name                     : &name "Xue Su 苏雪"
+name                     : &name "Xue Su"
 description              : &description "personal description"
 url                      : https://xue-su.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xue Su"
+  name             : "Xue Su 苏雪"
   avatar           : "XueSuPic2.jpg"
   bio              : "PhD Candidate in Geoscience"
   location         : 
