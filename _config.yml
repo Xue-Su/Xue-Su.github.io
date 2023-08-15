@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xue Su's website"
+title                    : "Xue Su's Homepage"
 title_separator          : "-"
 name                     : &name "Xue Su"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xue Su"
-  avatar           : "profile.png"
+  avatar           : "XueSuPhoto.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ann Arbor, Michigan"
   employer         :
