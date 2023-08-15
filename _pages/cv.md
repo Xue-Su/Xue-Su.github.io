@@ -24,12 +24,9 @@ Teaching Experience
 
 Honors and Awards
 ======
-* 2023	Rackham Conference Travel Grant Award ($1150) (U-M)
-* 2022	Turner Student Research Grant Award ($2500) (EES, U-M)
-* 2022	Rackham Conference Travel Grant Award ($1150) (U-M)
-* 2021 	Turner Student Research Grant Award ($2300, First Tier) (EES, U-M)
-* 2019 	Turner Student Research Grant Award ($1380) (EES, U-M)
-* 2018 	National Scholarship (awarded to top undergraduates in China) (USTC)
+* Rackham Conference Travel Grant Award (U-M) 2022, 2023
+* Turner Student Research Grant Award (EES, U-M) 2019, 2021, 2022
+* National Scholarship (awarded to top undergraduates in China) (USTC) 2018
 
 Service and leadership
 ======
