@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2019-2024* (expected)  **Ph.D.** in Earth & Environmental Sciences   
-  University of Michigan (EES, U-M), Ann Arbor   
+* 2019-2024* (expected)  **Ph.D.** in Geochemistry 
+  University of Michigan, Ann Arbor   
   GPA: 4.0/4.0   
   Advisor: Prof. Youxue Zhang   
 * 2015-2019 **B.S.** in Geochemistry   
-  University of Science and Technology of China (USTC)   
+  University of Science and Technology of China
   Advisor: Prof. Huaiwei Ni
 
 Teaching Experience
@@ -33,9 +33,9 @@ Teaching Experience
 
 Honors and Awards
 ======
-* Rackham Conference Travel Grant Award (U-M) 2022, 2023
-* Turner Student Research Grant Award (EES, U-M) 2019, 2021, 2022
-* National Scholarship (awarded to top undergraduates in China) (USTC) 2018
+* **Rackham Conference Travel Grant Award**, University of Michigan, Ann Arbor 2022, 2023
+* **Turner Student Research Grant Award**, University of Michigan, Ann Arbor 2019, 2021, 2022
+* **National Scholarship** (awarded to top undergraduates in China), University of Science and Technology of China 2018
 
 Service and leadership
 ======
