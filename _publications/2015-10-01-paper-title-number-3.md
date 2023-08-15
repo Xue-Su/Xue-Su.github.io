@@ -1,6 +1,6 @@
 ---
 title: "Peer Reviewed Papers4"
-
+collection: publications
 
 [3] **Su, X.**, Chen, S. and Zhang, Y. (2023) Volatiles in melt inclusions from lunar mare basalts: bridging the gap in H2O/Ce ratio between 74220 and other lunar samples. Geochimica et Cosmochimica Acta (under review)
 
