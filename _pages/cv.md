@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Earth & Environmental Sciences, University of Michigan (EES, U-M), Ann Arbor 2019-2024* (expected) 
+* 2019-2024* (expected) **Ph.D.** in Earth & Environmental Sciences, University of Michigan (EES, U-M), Ann Arbor 
   Advisor: Prof. Youxue Zhang
-* B.S. in Geochemistry, University of Science and Technology of China (USTC) 2015-2019
+* 2015-2019 **B.S.** in Geochemistry, University of Science and Technology of China (USTC)
   Advisor: Prof. Huaiwei Ni
 
 Teaching Experience
