@@ -7,5 +7,8 @@ permalink: /gallery/
 
 {% include base_path %}
 
-check2
+
+Swiss
+======
+![](swiss1.png)
 
