@@ -6,11 +6,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
+  - title: "Blog posts"
    url: /year-archive/
     
-  - title: "Talks"
-    url: /talks/  
+  #- title: "Talks"
+  #  url: /talks/  
   
  # - title: "Portfolio"
  #   url: /portfolio/
