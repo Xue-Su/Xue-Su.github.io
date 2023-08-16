@@ -248,6 +248,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
+    # gallery; sx added
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
