@@ -249,7 +249,7 @@ defaults:
       author_profile: true
       share: true
       
-    # gallery; sx added
+    # _gallery; sx added
   - scope:
       path: ""
       type: gallery
@@ -257,6 +257,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
