@@ -10,5 +10,6 @@ permalink: /gallery/
 
 Swiss
 ======
-![](swiss1.png)
+<img src="swiss1.png" alt= “” width="600" height="500">
+
 
