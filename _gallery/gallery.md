@@ -10,6 +10,6 @@ permalink: /gallery/
 
 Swiss
 ======
-<img src="swiss1.png" alt= “” width="600" height="500">
+<img src="/_gallery/swiss1.png" alt= “” width="600" height="500">
 
 
