@@ -1,5 +1,9 @@
+---
+title: "Peer Reviewed Papers"
+collection: publications
 
 ---
+
 [3] **Su, X.**, Chen, S. and Zhang, Y. (2023) Volatiles in melt inclusions from lunar mare basalts: bridging the gap in H2O/Ce ratio between 74220 and other lunar samples. _Geochimica et Cosmochimica Acta_ (under review)   
 
 [2] **Su, X.**, Zhang, Y., Liu, Y. and Holder, R.M. (2023) Outgassing and in-gassing of Na, K and Cu in lunar 74220 orange glass beads. _Earth and Planetary Science Letters_ 602, 117924. https://doi.org/10.1016/j.epsl.2022.117924   
