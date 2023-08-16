@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Photo Gallery"
@@ -5,4 +6,6 @@ author_profile: true
 
 ---
 
-check 
+{% include base_path %}
+
+check 2
