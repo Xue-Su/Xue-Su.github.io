@@ -7,9 +7,18 @@ permalink: /gallery/
 
 {% include base_path %}
 
+Selected photos taken during traveling
+***
+#### Roundtrip in Switzerland (2023)
 
-Swiss
-======
-<img src="/_gallery/swiss1.png" alt= "" width="600" height="500">
-
+<table>
+  <tr>
+    <td><img src="swiss1.jpg" alt="" /></td>
+    <td><img src="swiss2.jpg" alt=""/></td>
+  </tr>
+  <tr>
+    <td><img src="swiss3.jpg" alt=""/></td>
+    <td><img src="swiss4.jpg" alt=""/></td>
+  </tr>
+</table>
 
