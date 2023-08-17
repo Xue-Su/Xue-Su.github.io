@@ -9,7 +9,8 @@ permalink: /gallery/
 
 Selected photos taken during traveling
 
-<hr>
+<hr>   
+
 #### Roundtrip in Switzerland (2023)
 
 <table>
