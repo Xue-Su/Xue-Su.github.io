@@ -8,7 +8,8 @@ permalink: /gallery/
 {% include base_path %}
 
 Selected photos taken during traveling
-***
+
+<hr>
 #### Roundtrip in Switzerland (2023)
 
 <table>
