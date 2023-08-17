@@ -11,7 +11,7 @@ Selected photos taken during traveling
 
 <hr>   
 
-### Roundtrip in Switzerland (2023)
+### Roadtrip in Switzerland (2023)
 
 <table>
   <tr>
@@ -26,7 +26,7 @@ Selected photos taken during traveling
 
 <hr>  
 
-### Roundtrip in Utah, USA (2022)
+### Roadtrip in Utah, USA (2022)
 
 <table>
   <tr>
