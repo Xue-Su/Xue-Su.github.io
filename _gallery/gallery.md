@@ -11,8 +11,17 @@ In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, co
 
 <hr>   
 
-### Mellow with her sisters 
-<img src="mellow.jpeg" width="40%" height="40%"/>
+### My cat Mellow 
+<table>
+  <tr>
+    <td><img src="mellow1.jpg" alt="" /></td>
+    <td><img src="mellow2.jpg" alt=""/></td>
+  </tr>
+  <tr>
+    <td><img src="mellow3.jpg" alt=""/></td>
+    <td><img src="mellow4.jpg" alt=""/></td>
+  </tr>
+</table>
 
 ### Roadtrip in Switzerland (2023)
 
