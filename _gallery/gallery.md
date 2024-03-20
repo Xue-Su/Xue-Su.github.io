@@ -7,7 +7,7 @@ permalink: /gallery/
 
 {% include base_path %}
 
-In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, cooking and baking. I recently took up photography as a hobby. When I have more time I like traveling around the world to go sightseeing and experience different culture and food. Below are some selected photos taken during my traveling in recent years. 
+In my spare time, I enjoy hiking in nature, playing pickleball, cooking and baking. I have recently started learning photography as a hobby. When I have more time I like traveling around the world to go sightseeing and experience different cultures and foods. Below are some selected photos taken during my travels in recent years. 
 
 <hr>   
 
@@ -20,7 +20,7 @@ In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, co
   <tr>
     <td><img src="mellow3.jpg" alt=""/></td>
     <td><img src="mellow4.jpg" alt=""/></td>
-  </tr>
+  </tr>https://github.com/Xue-Su/Xue-Su.github.io/blob/master/_gallery/gallery.md
 </table>
 
 ### Roadtrip in Switzerland (2023)
