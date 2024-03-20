@@ -24,7 +24,7 @@ Honors and Awards
 * **Rackham Predoctoral Fellowship**, University of Michigan, Ann Arbor (2024)
 * **Outstanding Graduate Student Instructor Award**, University of Michigan, Ann Arbor (2024)
 * **Rackham Conference Travel Grant Award**, University of Michigan, Ann Arbor (2022, 2023)
-* **Turner Student Research Grant Award**, University of Michigan, Ann Arbor (2019, 2021, 2022, 2023)
+* **Turner Student Research Grant Award**, University of Michigan, Ann Arbor (2019, 2021, 2022, 2023) first-tier proposal in 2021
 * **National Scholarship** (awarded to top undergraduates in China), University of Science and Technology of China (2018)
 
 
