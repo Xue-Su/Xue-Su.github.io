@@ -7,9 +7,7 @@ permalink: /gallery/
 
 {% include base_path %}
 
-In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, cooking and baking. I recently took up photography as a hobby because it is really cool. When I have more time I like traveling around the world to go sightseeing and experience different culture and food. Below are some selected photos taken during my traveling in recent years. 
-
-By the way, I am also going to be a cat parent in this February!! Her name is Mellow.
+In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, cooking and baking. I recently took up photography as a hobby. When I have more time I like traveling around the world to go sightseeing and experience different culture and food. Below are some selected photos taken during my traveling in recent years. 
 
 <hr>   
 
