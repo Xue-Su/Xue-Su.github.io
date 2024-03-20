@@ -19,6 +19,8 @@ Peer Reviewed Papers
 
 Conference Abstracts
 ------
+[6] **Su, X.**, Zhang, Y. and Liu, Y. (2024) Sulfur Outgassing and In-gassing in Lunar Orange Glass Beads and the Implications, Abstract [#2099], presented in the 55th _Lunar and Planetary Science Conference_, 11–15 March.
+
 [5]   **Su, X.** and Zhang, Y. (2023) Pyroxene Phenocrysts as Tracers of Melt Water Content in Lunar Basalts, Abstract [#18402], presented in _Goldschmidt_, Lyon, France, 9–14 July.  
    
 [4]   **Su, X.**, Zhang, Y., Liu, Y., and Holder, R. (2022) In-gassing of Na, K and Cu in Lunar 15366 Green Glass Beads, Abstract [#1082373], presented in _AGU Fall Meeting_, 12–16 December.  
