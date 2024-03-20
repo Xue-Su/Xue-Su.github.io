@@ -14,7 +14,7 @@ In my spare time, I enjoy hiking in the nature, playing pickleball, knitting, co
 ### My cat Mellow 
 <table>
   <tr>
-    <td><img src="mellow1.jpg" alt="" /></td>
+    <td><img src="mellow1.JPG" alt="" /></td>
     <td><img src="mellow2.jpg" alt=""/></td>
   </tr>
   <tr>
