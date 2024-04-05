@@ -8,7 +8,7 @@ author_profile: true
 
 Peer Reviewed Papers
 ------
-[4*] **Su, X.**, Zhang, Y. and Liu, Y. (2023) Sulfur Outgassing and In-gassing in Lunar Orange Beads and Implications for <sup>33</sup>S “Anomaly” in the Moon. (_to be summitted, manuscript available upon request_)
+[4*] **Su, X.**, Zhang, Y. and Liu, Y. (2024) Sulfur Outgassing and In-gassing in Lunar Orange Beads and Implications for <sup>33</sup>S “Anomaly” in the Moon. (_to be summitted, manuscript available upon request_)
 
 [3] **Su, X.** and Zhang, Y. (2024) Volatiles in melt inclusions from lunar mare basalts: Bridging the gap in the H<sub>2</sub>O/Ce ratio between melt inclusions in lunar pyroclastic sample 74220 and other mare samples. _Geochimica et Cosmochimica Acta_ (in press). [https://doi.org/10.1016/j.gca.2024.04.002](https://doi.org/10.1016/j.gca.2024.04.002 )
 
