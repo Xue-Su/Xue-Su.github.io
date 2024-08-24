@@ -15,11 +15,11 @@ In my spare time, I enjoy hiking in nature, playing pickleball, cooking, and pla
 ### My cat Mellow 
 <table>
   <tr>
-    <td><img src="mellow5.JPG" alt="" /></td>
-    <td><img src="mellow2.jpg" alt=""/></td>
+    <td><img src="mellow7.jpg" alt="" /></td>
+    <td><img src="mellow2.jpg" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="mellow6.jpg" alt=""/></td>
+    <td><img src="mellow6.JPG" alt=""/></td>
     <td><img src="mellow4.jpg" alt=""/></td>
   </tr>
 </table>
@@ -29,10 +29,10 @@ In my spare time, I enjoy hiking in nature, playing pickleball, cooking, and pla
 <table>
   <tr>
     <td><img src="swiss1.jpg" alt="" /></td>
-    <td><img src="swiss2.jpg" alt=""/></td>
+    <td><img src="swiss2.jpg" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="swiss3.jpg" alt=""/></td>
+    <td><img src="swiss3.jpg" alt="" /></td>
     <td><img src="swiss4.jpg" alt=""/></td>
   </tr>
 </table>
