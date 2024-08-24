@@ -8,18 +8,18 @@ permalink: /gallery/
 {% include base_path %}
 
 
-In my spare time, I enjoy hiking in nature, playing pickleball, cooking and baking. I have recently started learning photography as a hobby. When I have more time I like traveling around the world to go sightseeing and experience different cultures and foods. Below are some selected photos taken during my travels in recent years. 
+In my spare time, I enjoy hiking in nature, playing pickleball, cooking, and playing boardgames with friends. When I have more time I like traveling around the world to go sightseeing and experience different cultures and foods. Below are some selected photos taken during my travels in recent years. 
 
 <hr>   
 
 ### My cat Mellow 
 <table>
   <tr>
-    <td><img src="mellow1.JPG" alt="" /></td>
+    <td><img src="mellow5.JPG" alt="" /></td>
     <td><img src="mellow2.jpg" alt=""/></td>
   </tr>
   <tr>
-    <td><img src="mellow3.jpg" alt=""/></td>
+    <td><img src="mellow6.jpg" alt=""/></td>
     <td><img src="mellow4.jpg" alt=""/></td>
   </tr>
 </table>
