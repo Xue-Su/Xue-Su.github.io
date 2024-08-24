@@ -8,7 +8,7 @@ author_profile: true
 
 Peer Reviewed Papers
 ------
-[4*] **Su, X.**, Zhang, Y. and Liu, Y. (2024) Sulfur Outgassing and In-gassing in Lunar Orange Beads and Implications for <sup>33</sup>S “Anomaly” in the Moon. (_to be summitted, manuscript available upon request_)
+[4*] **Su, X.**, Zhang, Y. and Liu, Y. (2024) Sulfur Outgassing and In-gassing in Lunar Orange Beads and Implications for <sup>33</sup>S “Anomaly” in the Moon. (_under review_)
 
 [3] **Su, X.** and Zhang, Y. (2024) Volatiles in melt inclusions from lunar mare basalts: Bridging the gap in the H<sub>2</sub>O/Ce ratio between melt inclusions in lunar pyroclastic sample 74220 and other mare samples. _Geochimica et Cosmochimica Acta_, 373, 232–244. [https://doi.org/10.1016/j.gca.2024.04.002](https://doi.org/10.1016/j.gca.2024.04.002 )
 
@@ -19,6 +19,8 @@ Peer Reviewed Papers
 
 Conference Abstracts
 ------
+[7] **Su, X.**, Zhang, Y. and Liu, Y. (2024) A Novel Diffusion Chronometer for Complex Diffusion Profiles in Glass Beads: Using Lunar Pyroclastic Beads as an Example, Abstract [#23826], presented in _Goldschmidt_, Chicago, 18–23 August. 
+
 [6] **Su, X.**, Zhang, Y. and Liu, Y. (2024) Sulfur Outgassing and In-gassing in Lunar Orange Glass Beads and the Implications, Abstract [#2099], presented in the 55th _Lunar and Planetary Science Conference_, 11–15 March.
 
 [5]   **Su, X.** and Zhang, Y. (2023) Pyroxene Phenocrysts as Tracers of Melt Water Content in Lunar Basalts, Abstract [#18402], presented in _Goldschmidt_, Lyon, France, 9–14 July.  
