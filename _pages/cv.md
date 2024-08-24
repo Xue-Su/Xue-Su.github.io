@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(last update: August 2024)
+
 Education
 ======
 * **Ph.D.** in Geochemistry (**2019-2024*** expected)  
@@ -47,12 +49,24 @@ Service and Leadership
 ======
 * **Graduate Student Mentor** of the Department of Earth and Environmental Sciences at the University of Michigan, Ann Arbor (2022.8–2023.6)     
   Responsible for departmental graduate student instructor (GSI, a.k.a. teaching assistant) training programs, such as running orientation and facilitating practice teaching sessions for new Earth GSIs, observing new GSIs' classes and giving them feedback, and organizing GSI workshops   
-* **Graduate Student Representative in Diversity, Equity, and Inclusion (DEI) Committee** of the Department of Earth and Environmental Sciences at the University of Michigan, Ann Arbor (2022.1–2023.5)   
+* **Graduate Student Representative in Diversity, Equity, and Inclusion (DEI) Committee** of the Department of Earth and Environmental Sciences at the University of Michigan, Ann Arbor (2022.1–2023.5)
 
-Professional Membership
+
+Public Seminar & Conference Talks
 ======
+* Seminar, School of Earth and Space Sciences, University of Science and Technology of China (2023)
+* PRG talk, Division of Geological and Planetary Sciences, California Institute of Technology (2022)
+* Petrology Seminar, Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor (2020, 2021, 2022, 2023)
+* Goldschmidt (2023, 2024)
+* AGU Fall Meeting (2022)
+* Lunar and Planetary Science Conference (2021, 2024)
+
+
+Professional Membership & Development
+======
+* **Prepare Future Faculty Seminar Certificate**, University of Michigan, Ann Arbor (2024)
+In honor of the completion of the seminar requirements and dedication to the advancement of teaching in higher education and academic professionalism
 * Geochemical Society (2023–present)
 * American Geophysical Union (2021–present)
-
 
 
