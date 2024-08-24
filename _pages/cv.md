@@ -62,7 +62,7 @@ Public Seminar & Conference Talks
 * Lunar and Planetary Science Conference (2021, 2024)
 
 
-Professional Membership & Development
+Professional Development & Membership
 ======
 * **Prepare Future Faculty Seminar Certificate**, University of Michigan, Ann Arbor (2024)
 In honor of the completion of the seminar requirements and dedication to the advancement of teaching in higher education and academic professionalism
