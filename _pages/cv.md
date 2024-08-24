@@ -14,7 +14,7 @@ Education
 * **Ph.D.** in Geochemistry (**2019-2024*** expected)  
   University of Michigan, Ann Arbor   
   GPA: 4.0/4.0   
-  Advisor: Prof. Youxue Zhang
+  Advisor: Prof. Youxue Zhang <br>
   Co-advisor: Dr. Yang Liu (_JPL_)
    
 * **B.S.** in Geochemistry (**2015-2019**)   
