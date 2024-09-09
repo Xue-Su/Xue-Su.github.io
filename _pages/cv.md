@@ -54,12 +54,12 @@ Service and Leadership
 
 Public Seminar & Conference Talks
 ======
-* Seminar, School of Earth and Space Sciences, University of Science and Technology of China (2023)
-* PRG talk, Division of Geological and Planetary Sciences, California Institute of Technology (2022)
-* Petrology Seminar, Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor (2020, 2021, 2022, 2023)
-* Goldschmidt (2023, 2024)
-* AGU Fall Meeting (2022)
-* Lunar and Planetary Science Conference (2021, 2024)
+* Seminar, School of Earth and Space Sciences, **University of Science and Technology of China** (2023)
+* PRG talk, Division of Geological and Planetary Sciences, **California Institute of Technology** (2022)
+* Petrology Seminar, Department of Earth and Environmental Sciences, **University of Michigan, Ann Arbor** (2020, 2021, 2022, 2023)
+* **Goldschmidt** (2023, 2024)
+* **AGU Fall Meeting** (2022)
+* **Lunar and Planetary Science Conference** (2021, 2024)
 
 
 Professional Development & Membership
